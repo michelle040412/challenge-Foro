@@ -1,4 +1,5 @@
 # Proyecto ForoHub
+![Badge-Spring](https://github.com/user-attachments/assets/2b1a17be-8d59-484c-9491-89a6f9e7c684)
 
 ## Descripción
 Este proyecto es una plataforma de foro en línea donde los usuarios pueden crear y discutir temas de interés.
